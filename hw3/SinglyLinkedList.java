@@ -1,4 +1,4 @@
-package hw3;
+//package hw3;
 
 public class SinglyLinkedList {
     Node head;
